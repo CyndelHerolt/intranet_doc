@@ -8,7 +8,7 @@
 
 - **Où** : Connectez-vous à l’intranet :
     
-    *(lien / bookmark Notion non exportable tel quel)*
+<a href="https://intranet.iut-troyes.univ-reims.fr" target="_blank">Connexion à l'intranet</a>
     
 - **Objectif** : créer, modifier, supprimer des événements, sélectionner les étudiants participants, et exporter le QR code d'un événement (PDF) pour que les étudiants puissent émarger.
 
@@ -21,7 +21,7 @@
 - Sélectionner ou retirer des étudiants participants
 - Télécharger un PDF contenant le QR code de l'événement
 - Distribuer ce QR code aux étudiants pour qu'ils confirment leur présence
-- Émarger manuellement pour un étudiant
+- Émarger manuellement un étudiant
 - Exporter les émargements en .xlsx
 
 ---
@@ -62,8 +62,15 @@ La page affiche un tableau contenant tous les événements. Pour chaque ligne, v
     - **Date** : jour de l'événement
     - **Heure de début** et **heure de fin**
     - (Facultatif) Description ou autre champ selon le formulaire
+    - **Géolocalisation** : activer ou non la géolocalisation lors de l'émargement des étudiants
 3. Sélectionnez les étudiants participants (voir section suivante).
 4. Cliquez sur **Enregistrer** ou **Créer**.
+
+> **⚠️ Attention !**
+> 
+
+> Si vous activez la géolocalisation, il faut qu'une adresse soit renseignée. L'étudiant sera averti que son émargement nécessite de le géolocaliser et il est en droit de refuser.
+> 
 
 Après la création, l'événement apparaît dans la liste. Vous pouvez maintenant télécharger son QR ou modifier sa liste de participants.
 
@@ -81,7 +88,7 @@ Dans le formulaire de création ou de modification, une zone permet de choisir l
 > **⚠️ Attention !**
 > 
 
-> Si il y a plus de 20 étudiants dans les résultats renvoyés par les filtres que vous avez sélectionnés, il faut cliquer sur “charger plus” jusqu’à ce que le compte soit complet afin de pouvoir tous les récupérer. Sinon vous ne sélectionnerez que les 20 premiers affichés@
+> S'il y a plus de 20 étudiants dans les résultats renvoyés par les filtres que vous avez sélectionnés, il faut cliquer sur “charger plus” jusqu’à ce que le compteur soit complet afin de pouvoir tous les récupérer. Sinon, vous ne sélectionnerez que les 20 premiers affichés
 > 
 - Une fois votre sélection terminée, sauvegardez le formulaire.
 
@@ -132,7 +139,7 @@ Ce PDF peut être imprimé ou partagé aux étudiants. Lorsqu'un étudiant scann
 - L’étudiant accepte que l’on le localise le temps de valider sa présence.
 - L'étudiant clique sur le bouton prévu pour valider la présence.
 
-Si un étudiant rencontre un problème (la page ne s'ouvre pas, impossible de valider), demandez de prendre une photo du QR et de l'envoyer à l'équipe support, ou notez le nom et validez manuellement l'émargement dans la page détails d’un événement.
+Si un étudiant rencontre un problème (la page ne s'ouvre pas, impossible de valider), demandez-lui de prendre une photo du QR et de l'envoyer à l'équipe support, ou notez le nom et validez manuellement l'émargement dans la page Détails d’un événement.
 
 <img width="2508" height="auto" alt="Capture d’écran 2026-02-16 à 15 41 03" src="https://github.com/user-attachments/assets/0bbe3d89-3895-4a79-8df3-23917c0a2839" />
 
@@ -140,7 +147,7 @@ Si un étudiant rencontre un problème (la page ne s'ouvre pas, impossible de va
 
 ## 9) Récupérer les données et contrôler les présences
 
-- Depuis la page Détails d’un événement vous pouvez voir si les étudiants ont signé ou non. Si l’étudiant a signé à une date qui ne correspond pas à la date et aux horaires renseignées pour l’événement, l’horodatage s’affiche en rouge (J’ai appliqué une tolérance de 1 heure avant et après l’événement).
+- Depuis la page Détails d’un événement vous pouvez voir si les étudiants ont signé ou non. Si l’étudiant a signé à une date qui ne correspond pas à la date et aux horaires renseignés pour l’événement, l’horodatage s’affiche en rouge (J’ai appliqué une tolérance d'une heure avant et après l’événement).
 - Exportez les données dans un fichier xlsx.
  
 <img width="2510" height="auto" alt="Capture d’écran 2026-02-16 à 14 43 54" src="https://github.com/user-attachments/assets/0af95acd-53c7-4b75-ad5f-69024e98d2cf" />
@@ -162,10 +169,10 @@ Si un étudiant rencontre un problème (la page ne s'ouvre pas, impossible de va
 
 ### Un étudiant ne peut pas valider sa présence
 
-- Demandez lui le message d’erreur qui s’affiche pour identifier la source du problème
-- Vérifier qu’il apparaît bien dans la liste des étudiants assignés à l’événement (recherche avec Ctrl+F pour gagner du temps)
+- Demandez-lui le message d’erreur qui s’affiche pour identifier la source du problème
+- Vérifiez qu’il apparaît bien dans la liste des étudiants assignés à l’événement (recherche avec Ctrl+F pour gagner du temps)
 - Demandez d'actualiser la page ou d'essayer avec un autre navigateur ou appareil.
-- Si ça ne marche toujours pas, notez le nom et notez-le comme étant présent manuellement (édition de l'événement).
+- Si cela ne marche toujours pas, notez le nom et notez-le comme étant présent manuellement (édition de l'événement).
 
 ---
 
@@ -173,7 +180,7 @@ Si un étudiant rencontre un problème (la page ne s'ouvre pas, impossible de va
 
 - Préparez et vérifiez l'événement (date, heure) avant d'exporter le QR code.
 - Utilisez les filtres pour sélectionner précisément les étudiants et éviter les erreurs.
-- Conservez un exemplaire du PDF QR afin de pouvoir le réimprimer si besoin.
+- Conservez un exemplaire du PDF du QR code afin de pouvoir le réimprimer si besoin.
 
 ---
 
