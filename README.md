@@ -31,7 +31,7 @@
 1. Connectez-vous à l'intranet avec votre compte.
 2. Dans le menu principal, cliquez sur **Événements** pour ouvrir la liste des événements.
 
-<img width="2511" height="1296" alt="Capture d’écran 2026-02-16 à 14 07 00" src="https://github.com/user-attachments/assets/d2185a3a-a81e-40d4-945c-fed2960e01a2" />
+<img width="2511" height="auto" alt="Capture d’écran 2026-02-16 à 14 07 00" src="https://github.com/user-attachments/assets/d2185a3a-a81e-40d4-945c-fed2960e01a2" />
 
 ---
 
@@ -50,7 +50,7 @@ La page affiche un tableau contenant tous les événements. Pour chaque ligne, v
 - Dupliquer, voir les détails, éditer et supprimer
 - Pour télécharger le QR code au format PDF, cliquez sur l'icône QR (bouton bleu) dans la colonne Actions.
 
-<img width="2510" height="653" alt="Capture d’écran 2026-02-17 à 12 00 58" src="https://github.com/user-attachments/assets/6b89be4e-44c4-449c-8826-29c91bbe5dfb" />
+<img width="2510" height="auto" alt="Capture d’écran 2026-02-17 à 12 00 58" src="https://github.com/user-attachments/assets/6b89be4e-44c4-449c-8826-29c91bbe5dfb" />
 
 ---
 
@@ -67,7 +67,7 @@ La page affiche un tableau contenant tous les événements. Pour chaque ligne, v
 
 Après la création, l'événement apparaît dans la liste. Vous pouvez maintenant télécharger son QR ou modifier sa liste de participants.
 
-<img width="2509" height="1294" alt="Capture d’écran 2026-02-16 à 14 19 29" src="https://github.com/user-attachments/assets/a94c3933-1c52-4605-8e41-16282bf7d284" />
+<img width="2509" height="auto" alt="Capture d’écran 2026-02-16 à 14 19 29" src="https://github.com/user-attachments/assets/a94c3933-1c52-4605-8e41-16282bf7d284" />
 
 ---
 
@@ -88,7 +88,7 @@ Dans le formulaire de création ou de modification, une zone permet de choisir l
 > **✅ Conseil** : si vous devez ajouter beaucoup d'étudiants, commencez par filtrer par département ou semestre pour réduire la liste.
 >
 
-<img width="2510" height="1293" alt="Capture d’écran 2026-02-16 à 14 22 59" src="https://github.com/user-attachments/assets/723d51c2-692e-4ad2-9ef1-5ed11c14c213" />
+<img width="2510" height="auto" alt="Capture d’écran 2026-02-16 à 14 22 59" src="https://github.com/user-attachments/assets/723d51c2-692e-4ad2-9ef1-5ed11c14c213" />
 
 ---
 
@@ -119,9 +119,9 @@ Après enregistrement, la liste se met à jour.
 
 Ce PDF peut être imprimé ou partagé aux étudiants. Lorsqu'un étudiant scanne le QR code, il est dirigé vers la page permettant de confirmer sa présence à l'événement.
 
-<img width="1463" height="836" alt="Capture d’écran 2026-02-16 à 18 27 46" src="https://github.com/user-attachments/assets/f582d254-a668-4fc0-897f-17131e9ae61a" />
+<img width="1463" height="auto" alt="Capture d’écran 2026-02-16 à 18 27 46" src="https://github.com/user-attachments/assets/f582d254-a668-4fc0-897f-17131e9ae61a" />
 
-<img width="997" height="1153" alt="Capture d’écran 2026-02-16 à 14 28 23" src="https://github.com/user-attachments/assets/653fdb69-3af8-4880-bb18-44c38dfca58a" />
+<img width="997" height="auto" alt="Capture d’écran 2026-02-16 à 14 28 23" src="https://github.com/user-attachments/assets/653fdb69-3af8-4880-bb18-44c38dfca58a" />
 
 ---
 
@@ -134,7 +134,7 @@ Ce PDF peut être imprimé ou partagé aux étudiants. Lorsqu'un étudiant scann
 
 Si un étudiant rencontre un problème (la page ne s'ouvre pas, impossible de valider), demandez de prendre une photo du QR et de l'envoyer à l'équipe support, ou notez le nom et validez manuellement l'émargement dans la page détails d’un événement.
 
-<img width="2508" height="1292" alt="Capture d’écran 2026-02-16 à 15 41 03" src="https://github.com/user-attachments/assets/0bbe3d89-3895-4a79-8df3-23917c0a2839" />
+<img width="2508" height="auto" alt="Capture d’écran 2026-02-16 à 15 41 03" src="https://github.com/user-attachments/assets/0bbe3d89-3895-4a79-8df3-23917c0a2839" />
 
 ---
 
@@ -143,9 +143,9 @@ Si un étudiant rencontre un problème (la page ne s'ouvre pas, impossible de va
 - Depuis la page Détails d’un événement vous pouvez voir si les étudiants ont signé ou non. Si l’étudiant a signé à une date qui ne correspond pas à la date et aux horaires renseignées pour l’événement, l’horodatage s’affiche en rouge (J’ai appliqué une tolérance de 1 heure avant et après l’événement).
 - Exportez les données dans un fichier xlsx.
  
-<img width="2510" height="783" alt="Capture d’écran 2026-02-16 à 14 43 54" src="https://github.com/user-attachments/assets/0af95acd-53c7-4b75-ad5f-69024e98d2cf" />
+<img width="2510" height="auto" alt="Capture d’écran 2026-02-16 à 14 43 54" src="https://github.com/user-attachments/assets/0af95acd-53c7-4b75-ad5f-69024e98d2cf" />
 
-<img width="2509" height="1293" alt="Capture d’écran 2026-02-16 à 15 39 10" src="https://github.com/user-attachments/assets/5907d077-4409-4218-8937-97362c5458d7" />
+<img width="2509" height="auto" alt="Capture d’écran 2026-02-16 à 15 39 10" src="https://github.com/user-attachments/assets/5907d077-4409-4218-8937-97362c5458d7" />
 
 ---
 
